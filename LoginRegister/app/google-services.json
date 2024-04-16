@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121732865910",
+    "project_id": "loginregister-c8513",
+    "storage_bucket": "loginregister-c8513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121732865910:android:ac3b5daea583eb2bdca457",
+        "android_client_info": {
+          "package_name": "com.kotlinstudies.loginregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfidfVIJyk8hITxcV9UO9aVswT-uEfJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
